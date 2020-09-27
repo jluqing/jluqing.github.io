@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: C:\Users\86188\Documents\GitHub\jluqing.github.io\assets\img
   alt: website picture
 ---
 
