@@ -26,15 +26,9 @@ footer:
       value: ma199989
       link: "#"
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+  
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: http://jluqing.github.io/YourGitHubUsername
     - name: Weibo
       link: http://weibo.com/u/YourWeiboUsername
     - name: RSS
