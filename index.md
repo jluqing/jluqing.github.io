@@ -1,8 +1,8 @@
 ---
 layout: home
 profile_picture:
-  src: C:\Users\86188\Documents\GitHub\jluqing.github.io\assets\img
-  alt: website picture
+  src: /assets/img/pic/zhouyou.jpg
+  alt: /assets/img/pic/zhouyou.jpg
 ---
 
 <p>
