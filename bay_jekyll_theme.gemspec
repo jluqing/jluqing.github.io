@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "zhouyou theme"
+  spec.name          = "bay_jekyll_theme"
   spec.version       = "1.0.14"
   spec.authors       = ["Eliott Vincent"]
   spec.email         = ["hello@eliottvincent.com"]
