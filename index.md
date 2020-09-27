@@ -2,7 +2,7 @@
 layout: home
 profile_picture:
   src: /assets/img/pic/zhouyou.jpg
-  alt: /assets/img/pic/zhouyou.jpg
+  alt: website picture
 ---
 
 <p>
