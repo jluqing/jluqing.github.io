@@ -9,12 +9,7 @@ url: "https://eliottvincent.github.io" # the base hostname & protocol for the si
 og_image: /assets/img/icons/wechat.png
 google_analytics: "UA-121636368-3"
 
-header:
-  pages:
-    - name: Home
-      slug: /     # <-- index.md
-    - name: Blog  # <-- blog.md
-    - name: Whatever  # <-- whatever.md
+
 header:
   pages:
     - name: Home
